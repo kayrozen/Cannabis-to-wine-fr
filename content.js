@@ -8,7 +8,11 @@ for (var i = 0; i < elements.length; i++) {
 
         if (node.nodeType === 3) {
             var text = node.nodeValue;
-            var replacedText = text.replace(/blockchain/gi, 'multiple copies of a giant excel spreadsheet');
+            var replacedText1 = text.replace(/fumer du cannabis/gi, 'boire du vin');
+            var replacedText = text.replace(/cannabis/gi, 'vin');
+            
+            if (replacedText1 !== text) {
+                element.replaceChild(document.createTextNode(replacedText1), node);
 
             if (replacedText !== text) {
                 element.replaceChild(document.createTextNode(replacedText), node);
