@@ -18,11 +18,10 @@ you can do a manual install from this GitHub repo (also easy!) by following thes
 6. Choose the folder that the unzipped/extracted files are in (probably called "blockchain-to-spreadsheet-master").
 7. The extension should now appear and the "Enabled" box should be checked. Start browsing blockchain news to read about all the things a giant Excel spreadsheet can do!
 
-EXAMPLE:
-Here's a screenshot for y'all:
-![screenshot](https://user-images.githubusercontent.com/22127496/36832800-dde60102-1ce1-11e8-9559-4c4d93456376.png)
 
 Special thanks:
+
+@cynthiablee for sharing the code. 
 
 Twitter user @mims (Christopher Mims) for [the suggestion](https://twitter.com/mims/status/968967786130300928) to make a "browser extension that replaces "blockchain" with "multiple copies of a giant Excel spreadsheet." For example, "multiple copies of a giant excel spreadsheet to revolutionize journalism." 
 
@@ -30,4 +29,3 @@ Thanks to Tom Maxwell for the [tutorial and template code](https://9to5google.co
 
 Enjoy!
 
--CBL
