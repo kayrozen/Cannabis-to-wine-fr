@@ -13,6 +13,7 @@ for (var i = 0; i < elements.length; i++) {
             
             if (replacedText1 !== text) {
                 element.replaceChild(document.createTextNode(replacedText1), node);
+            }
 
             if (replacedText !== text) {
                 element.replaceChild(document.createTextNode(replacedText), node);
