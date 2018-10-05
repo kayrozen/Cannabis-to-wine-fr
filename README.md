@@ -1,15 +1,12 @@
 WHAT: 
-This is a Chrome browser extension that can help readers contextualize news stories with hype about blockchain technology, by reminding you that blockchain is, in essense, a giant Excel spreadsheet.
+This is a Chrome browser extension that can help readers contextualize news stories with hype about weed legalization, by reminding you that cannabis is, in essense, same as wine.
 
 WHY:
 For fun.
 
 HOW:
-To install this extension in your Chrome browser, you can go get it from the official Chrome store (same tool, still free, fewer steps required) by going to this link:
 
-[Official Chrome store install (easier for novices)](https://chrome.google.com/webstore/detail/replace-blockchain-with-s/johdgapbhomlhcflancninpeafocpopn?hl=en-US&gl=US)
-
-Or you can do a manual install from this GitHub repo (also easy!) by following these steps:
+you can do a manual install from this GitHub repo (also easy!) by following these steps:
 
 * Note: enabling "developer mode" extensions in your browser--as needed for manual install--is risky. Chrome may remind you to be worried about that. To avoid those pop-up warnings, use the official Chrome store install above instead of this manual install.
 
